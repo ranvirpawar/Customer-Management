@@ -1,5 +1,8 @@
 # 📇 Customer Management Application
 
+🔗 [Download Apk](https://github.com/ranvirpawar/Customer-Management/releases/tag/1.0.0)
+
+
  Customer Management Application! This app is crafted to streamline the management of customer data with a variety of powerful features:
 
 ✨ **Features:**
@@ -13,4 +16,4 @@
 - **Architecture:** Built with clean business logic using the MVVM pattern.
 - **State Management:** GetX for efficient state management.
 
-🔗 [Download Apk](https://github.com/ranvirpawar/Customer-Management/releases/tag/1.0.0)
+
