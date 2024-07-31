@@ -10,6 +10,7 @@ AppTheme._();
 static ThemeData lightTheme = ThemeData(
   textTheme:  GoogleFonts.montserratTextTheme(),
   inputDecorationTheme: TextFormFieldTheme.lightInputDecorationTheme,
+  
   elevatedButtonTheme: AppElevatedTheme.lightElevatedButtonTheme,
 );
 }
