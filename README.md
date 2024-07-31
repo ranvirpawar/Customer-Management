@@ -1,16 +1,19 @@
-# customer_management
+# 📇 Customer Management Application
 
-A new Flutter project.
+🔗 [Download Apk](https://github.com/ranvirpawar/Customer-Management/releases/tag/1.0.0)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ Customer Management Application! This app is crafted to streamline the management of customer data with a variety of powerful features:
 
-A few resources to get you started if this is your first Flutter project:
+✨ **Features:**
+- 🆕 **Add Customer:** Easily add new customer information.
+- ✏️ **Edit Customer:** Update existing customer details effortlessly.
+- ❌ **Delete Customer:** Remove customer information when needed.
+- ✅ **Data Validation:** Ensure accuracy with robust validation through our API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠️ **Technical Highlights:**
+- **Local Storage:** Utilizes shared preferences for local data management.
+- **Architecture:** Built with clean business logic using the MVVM pattern.
+- **State Management:** GetX for efficient state management.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
